@@ -1,0 +1,12 @@
+{
+"recipes": {
+		"recipearty": "cannonmod.item.recipe.RecipeArty$Factory",
+		"recipeartyarmor": "cannonmod.item.recipe.RecipeArtyArmor$Factory",
+		"recipeartycamo": "cannonmod.item.recipe.RecipeArtyCamo$Factory",
+		"recipebarrel": "cannonmod.item.recipe.RecipeBarrel$Factory",
+		"recipebarrelexpand": "cannonmod.item.recipe.RecipeBarrelExpand$Factory",
+		"recipecannon": "cannonmod.item.recipe.RecipeCannon$Factory",
+		"recipechassis": "cannonmod.item.recipe.RecipeChassis$Factory"
+
+	}
+}

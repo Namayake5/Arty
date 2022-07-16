@@ -1,0 +1,18 @@
+﻿#
+entity.simpleArtilleryMod.Artillery.name=大砲
+item.Artillery.name=大砲
+item.ArmorPlate.name=装甲板
+item.Cannon.name=主砲
+item.Barrel.name=砲身
+item.Carriage_0.name=砲架
+item.Carriage_1.name=モーター付き砲架 mk.1
+item.Carriage_2.name=モーター付き砲架 mk.2
+item.Carriage_3.name=モーター付き砲架 mk.3
+item.Engine_0.name=エンジン mk.1
+item.Engine_1.name=エンジン mk.2
+item.Engine_2.name=エンジン mk.3
+item.Track.name=履帯
+item.Chassis.name=車体
+item.Loader_0.name=自動装填装置 mk.1
+item.Loader_1.name=自動装填装置 mk.2
+item.Loader_2.name=自動装填装置 mk.3

@@ -1,0 +1,18 @@
+#
+entity.simpleArtilleryMod.Artillery.name=Artillery
+item.Artillery.name=Artillery
+item.ArmorPlate.name=Armor Plate
+item.Cannon.name=Cannon
+item.Barrel.name=Barrel
+item.Carriage_0.name=Carriage
+item.Carriage_1.name=Motorized Carriage mk.1
+item.Carriage_2.name=Motorized Carriage mk.2
+item.Carriage_3.name=Motorized Carriage mk.3
+item.Engine_0.name=Engine mk.1
+item.Engine_1.name=Engine mk.2
+item.Engine_2.name=Engine mk.3
+item.Track.name=Track
+item.Chassis.name=Chassis
+item.Loader_0.name=Auto Loader mk.1
+item.Loader_1.name=Auto Loader mk.2
+item.Loader_2.name=Auto Loader mk.3

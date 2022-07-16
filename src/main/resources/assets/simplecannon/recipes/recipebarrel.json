@@ -1,0 +1,17 @@
+{
+	
+	"type": "simplecannon:recipebarrel",
+	"pattern": [
+		"BB"
+	],
+	"key": {
+		"B": {
+			"item": "simplecannon:barrel",
+			"data": 32767
+		}
+	},
+	"result": {
+		"item": "simplecannon:barrel",
+		"data": 0
+	}
+}
